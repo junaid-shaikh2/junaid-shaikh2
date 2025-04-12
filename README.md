@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **web clone project**
-
-- 💬 Ask me about **C, C++, HTML, CSS**
+- 👯 I’m looking to collaborate on **Front end web app**
 
 - 📫 How to reach me **junaid.shaikh.kn@gmail.com**
 
