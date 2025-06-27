@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Front end web app**
 
-- 📫 How to reach me **junaid.shaikh.kn@gmail.com**
+- 📫 How to reach me **junaid.shaikh.cn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
