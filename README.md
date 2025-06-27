@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">An aspiring frontend developer and Computer Science third-year student</h3>
+<h3 align="center">An aspiring frontend developer and Computer Science final-year student</h3>
 
 
 
