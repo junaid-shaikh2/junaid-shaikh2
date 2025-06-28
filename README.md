@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-shaikh2&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-shaikh2" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Front end web app**
 
